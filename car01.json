@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
+  "version": "1.1.0",
   "url": "https://raw.githubusercontent.com/mke3idiot/fhome-firmware/main/car01.bin",
-  "size": 378896,
-  "sha256": "370c42914787ea6dd57adccc3f33de6e1986c1681d58418846e8384016177068",
-  "built_at": "2026-07-22T14:53:08Z",
-  "commit": "7d19c26531319ec7517d4543045bda7ec7b08744"
+  "size": 382096,
+  "sha256": "26b309d0dccfedf70e9973459d46cdbec6af45e9310084aa77f0c676c6477fce",
+  "built_at": "2026-07-22T15:19:04Z",
+  "commit": "dd1c8d6365e7383748211df064ffb4f967456912"
 }
