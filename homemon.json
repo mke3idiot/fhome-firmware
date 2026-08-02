@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/mke3idiot/fhome-firmware/main/homemon.bin",
   "size": 1085008,
-  "sha256": "479ff9a27d6fa3b66538ed55395d2e13a0fd98feb35bdd599bbdb54d0a57c7bb",
-  "built_at": "2026-08-02T13:08:44Z",
-  "commit": "9d3099bb78a94a1d0512a2eb9b4edbc4d8cc8827"
+  "sha256": "488ff1b4ea425fa635043d19bc7f671c78ee6c44e40637d1c9a0177b2b563bc9",
+  "built_at": "2026-08-02T13:12:30Z",
+  "commit": "0b3399fe31b825ba60f03c758b887faf556d32e1"
 }
